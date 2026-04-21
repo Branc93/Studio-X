@@ -1,0 +1,9 @@
+gradio
+diffusers
+transformers
+accelerate
+peft
+pillow
+sdnq
+torchvision
+torchaudio
